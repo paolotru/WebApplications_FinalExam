@@ -1,0 +1,92 @@
+.padt{
+  padding-top : 4rem;
+}
+.padAlert{
+  padding-top : 3.5rem;
+}
+.padform{
+  padding-top : 15px;
+}
+.cgs{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly ;
+}
+.cW{
+  width: 20rem;
+  margin-top: 1rem;
+}
+.creaQ-h{
+  display: flex;
+  justify-content: center;
+}
+.creaQ-t{
+  display: flex;
+  justify-content: center;
+  width: 80%;
+}
+.creaQ-aB{
+  display: flex;
+  justify-content: space-evenly;
+}
+.creaQ-cB{
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+.edB{
+  display: flex;
+  justify-content:space-evenly;
+}
+.underDeck{
+  display:flex;
+  justify-content:center;
+  padding-top: 2rem;
+}
+.nameQ{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.compQ{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.compQ-b{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  padding-top: 2rem;
+}
+.compQ-check{
+  display: flex;
+  padding-left: 5rem;
+}
+.visualQ{
+  display: flex;
+  align-items:center;
+  flex-direction: column;
+  width: 75%;
+}
+.visualQ-cmd{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.visualQ-table{
+  padding-top: 2rem;
+}
+.nameQ-b{
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+.formMR{
+  padding-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+}
